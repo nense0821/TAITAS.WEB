@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function mostrar(id) {
 
     let secciones = document.querySelectorAll('.seccion');
@@ -223,7 +223,7 @@ function animarYAgregar(boton, nombreProducto, precioProducto) {
     setTimeout(() => {
         agregarAlCarrito(nombreProducto, precioProducto);
     }, 300);
-=======
+
 function mostrar(id) {
 
     let secciones = document.querySelectorAll('.seccion');
@@ -448,5 +448,5 @@ function animarYAgregar(boton, nombreProducto, precioProducto) {
     setTimeout(() => {
         agregarAlCarrito(nombreProducto, precioProducto);
     }, 300);
->>>>>>> 4b658f5cdd6fc496f9189fcc6313eeda95edae3d
+
 }
