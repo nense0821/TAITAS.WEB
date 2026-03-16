@@ -95,7 +95,7 @@ function enviarPedido() {
     mensaje += "%0A%0A Nombre: " + nombre;
     mensaje += "%0A Dirección: " + direccion;
 
-    let numero = "573202471731"; 
+    let numero = "573007398253"; 
 
     let url = "https://wa.me/" + numero + "?text=" + mensaje;
 
